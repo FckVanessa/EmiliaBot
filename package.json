@@ -55,6 +55,7 @@
     "spinnies": "^0.5.1",
     "tiktok-scraper-without-watermark": "^1.0.6",
     "uninstall": "0.0.0",
+    "terminal-kit": "^2.0.1",
     "ytsr": "^3.5.0"
   },
   "devDependencies": {},
