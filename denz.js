@@ -395,8 +395,8 @@ const ftrol = {
                             itemCount : 123,
                             status: 1,
                             surface : 1,
-                            message: `${tampilUcapan} ${pushname}`, //Kasih namalu
-                            orderTitle: `${tampilUcapan} ${pushname}`,
+                            message: `EMILIA BOT`, //Kasih namalu
+                            orderTitle: `EMILIA BOT`,
                             thumbnail: dfrply, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
                           }
@@ -1030,228 +1030,225 @@ menu =`メ ──❒「 INFO EMILIA 」 ❒
 │ ❒ Wit : ${timeWit}  
 │ ❒ Hari : ${week} ${weton}
 │ ❒ Tanggal : ${calender}
-└❏
+メ ──❒「 END INFO 」 ❒
 
-             *MAIN FUTURE* 
+メ ───❒「 COMMAND 」 ❒
 ${readmore}
-╭─❒ OWNER
-│ 〆  ${prefix}stopjadibot
-│ 〆  ${prefix}autorespon [ _on/off_ ]
-│ 〆  ${prefix}bc [ _teks/reply gif/image/video with caption_ ]
-│ 〆  ${prefix}tobc [ _reply sticker/audio with caption_ ]
-│ 〆  ${prefix}return [ _javascript_ ]
-│ 〆  ${prefix}clearall
-│ 〆  ${prefix}delchat
-│ 〆  ${prefix}mute
-│ 〆  ${prefix}unmute
-│ 〆  ${prefix}mode [ _publik/self_ ]
-│ 〆  ${prefix}setmenu [ _1/2_ ]
-│ 〆  ${prefix}spam [ _teks|jumlah_ ]
-│ 〆  ${prefix}demoteall
-│ 〆  ${prefix}promoteall
-│ 〆  ${prefix}addcmd [ _teks reply stc_ ]
-│ 〆  ${prefix}delcmd [ _reply stc_ ]
-│ 〆  ${prefix}listcmd
-│ 〆  ${prefix}spamsw [ _teks|jumlah_ ]
-│ 〆  ${prefix}upswteks [ _teks_ ]
-│ 〆  ${prefix}upswlokasi [ _teks_ ]
-│ 〆  ${prefix}upswaudio [ _reply audio_ ]
-│ 〆  ${prefix}upswvoice [ _reply audio_ ]
-│ 〆  ${prefix}upswsticker [ _reply sticker_ ]
-│ 〆  ${prefix}upswimage [ _reply image with caption_ ]
-│ 〆  ${prefix}upswgif [ _reply gif with caption_ ]
-│ 〆  ${prefix}upswvideo [ _reply video with caption_ ]
-│ 〆  ${prefix}shutdown
-│ 〆  ${prefix}offline [ _alasan_ ]
-│ 〆  ${prefix}online
-│ 〆  ${prefix}exif [ _nama|author_ ]
-│ 〆  ${prefix}setprofile [ _reply image_ ]
-│ 〆  ${prefix}setname [ _teks_ ]
-│ 〆  ${prefix}setprefix [ _multi/nopref/prefix_ ]
-│ 〆  ${prefix}setbio [ _teks_ ]
-│ 〆  ${prefix}bug [ _jumlah_ ]
-│ 〆  ${prefix}bugpc2 [ _jumlah_ ]
-│ 〆  ${prefix}bugtroli2 [ _jumlah_ ]
-│ 〆  ${prefix}bugpc
-│ 〆  ${prefix}bugcombine
-│ 〆  ${prefix}bugtroli
-│ 〆  ${prefix}buglokasi
-│ 〆  ${prefix}bughole
-│ 〆  ${prefix}leave
-│ 〆  ${prefix}restart
-│ 〆  ${prefix}join [ _link group_ ]
-│ 〆  ${prefix}addrespon [ _tanya|jawab_ ]
-│ 〆  ${prefix}delrespon [ _nama_ ]
-│ 〆  ${prefix}q [ _reply message_ ]
-│ 〆  ${prefix}baileys [ _reply message_ ]
-└─────────────────❒
+メ ───❒「 OWNER 」 ❒
+〆  ${prefix}stopjadibot
+〆  ${prefix}autorespon [ _on/off_ ]
+〆  ${prefix}bc [ _teks/reply gif/image/video with caption_ ]
+〆  ${prefix}tobc [ _reply sticker/audio with caption_ ]
+〆  ${prefix}return [ _javascript_ ]
+〆  ${prefix}clearall
+〆  ${prefix}delchat
+〆  ${prefix}mute
+〆  ${prefix}unmute
+〆  ${prefix}mode [ _publik/self_ ]
+〆  ${prefix}setmenu [ _1/2_ ]
+〆  ${prefix}spam [ _teks|jumlah_ ]
+〆  ${prefix}demoteall
+〆  ${prefix}promoteall
+〆  ${prefix}addcmd [ _teks reply stc_ ]
+〆  ${prefix}delcmd [ _reply stc_ ]
+〆  ${prefix}listcmd
+〆  ${prefix}spamsw [ _teks|jumlah_ ]
+〆  ${prefix}upswteks [ _teks_ ]
+〆  ${prefix}upswlokasi [ _teks_ ]
+〆  ${prefix}upswaudio [ _reply audio_ ]
+〆  ${prefix}upswvoice [ _reply audio_ ]
+〆  ${prefix}upswsticker [ _reply sticker_ ]
+〆  ${prefix}upswimage [ _reply image with caption_ ]
+〆  ${prefix}upswgif [ _reply gif with caption_ ]
+〆  ${prefix}upswvideo [ _reply video with caption_ ]
+〆  ${prefix}shutdown
+〆  ${prefix}offline [ _alasan_ ]
+〆  ${prefix}online
+〆  ${prefix}exif [ _nama|author_ ]
+〆  ${prefix}setprofile [ _reply image_ ]
+〆  ${prefix}setname [ _teks_ ]
+〆  ${prefix}setprefix [ _multi/nopref/prefix_ ]
+〆  ${prefix}setbio [ _teks_ ]
+〆  ${prefix}bug [ _jumlah_ ]
+〆  ${prefix}bugpc2 [ _jumlah_ ]
+〆  ${prefix}bugtroli2 [ _jumlah_ ]
+〆  ${prefix}bugpc
+〆  ${prefix}bugcombine
+〆  ${prefix}bugtroli
+〆  ${prefix}buglokasi
+〆  ${prefix}bughole
+〆  ${prefix}leave
+〆  ${prefix}restart
+〆  ${prefix}join [ _link group_ ]
+〆  ${prefix}addrespon [ _tanya|jawab_ ]
+〆  ${prefix}delrespon [ _nama_ ]
+〆  ${prefix}q [ _reply message_ ]
+〆  ${prefix}baileys [ _reply message_ ]
+メ ───❒「 END OWNER 」 ❒
 
-╭─❒ DOWNLOAD
-│ 〆  ${prefix}infogempa
-│ 〆  ${prefix}herolist
-│ 〆  ${prefix}herodetail [ _hero_ ]
-│ 〆  ${prefix}google [ _search_ ]
-│ 〆  ${prefix}gimage [ _search_ ]
-│ 〆  ${prefix}wiki [ _search_ ]
-│ 〆  ${prefix}mediafire [ _link_ ]
-│ 〆  ${prefix}ytdl [ _judul_ ]
-│ 〆  ${prefix}ytsearch [ _judul_ ]
-│ 〆  ${prefix}ytmp4 [ _link yt_ ]
-│ 〆  ${prefix}ytmp3 [ _link yt_ ]
-│ 〆  ${prefix}play [ _judul lagu_ ]
-│ 〆  ${prefix}video [ _judul video_ ]
-│ 〆  ${prefix}tinyurl [ _link_ ]
-│ 〆  ${prefix}fetch [ _link_ ]
-│ 〆  ${prefix}igdl [ _link_ ]
-│ 〆  ${prefix}tiktokdl [ _link_ ]
-│ 〆  ${prefix}pinterest [ _search_ ]
-│ 〆  ${prefix}lirik [ _judul_ ]
-│ 〆  ${prefix}tourl [ _reply image/video_ ]
-│ 〆  ${prefix}resepmasakan [ _judul_ ]
-│ 〆  ${prefix}artimimpi [ _teks_ ]
-│ 〆  ${prefix}bilangangka [ _angka_ ]
-│ 〆  ${prefix}kalkulator [ _angka_ ]
-│ 〆  ${prefix}fancytext [ _teks_ ]
-│ 〆  ${prefix}githubstalk [ _username_ ]
-│ 〆  ${prefix}translate [ _kodebhs|teks_ ]
-│ 〆  ${prefix}ss [ _link_ ]
-└─────────────────❒
+メ ───❒「 DOWNLOAD 」 ❒
+〆  ${prefix}infogempa
+〆  ${prefix}herolist
+〆  ${prefix}herodetail [ _hero_ ]
+〆  ${prefix}google [ _search_ ]
+〆  ${prefix}gimage [ _search_ ]
+〆  ${prefix}wiki [ _search_ ]
+〆  ${prefix}mediafire [ _link_ ]
+〆  ${prefix}ytdl [ _judul_ ]
+〆  ${prefix}ytsearch [ _judul_ ]
+〆  ${prefix}ytmp4 [ _link yt_ ]
+〆  ${prefix}ytmp3 [ _link yt_ ]
+〆  ${prefix}play [ _judul lagu_ ]
+〆  ${prefix}video [ _judul video_ ]
+〆  ${prefix}tinyurl [ _link_ ]
+〆  ${prefix}fetch [ _link_ ]
+〆  ${prefix}igdl [ _link_ ]
+〆  ${prefix}tiktokdl [ _link_ ]
+〆  ${prefix}pinterest [ _search_ ]
+〆  ${prefix}lirik [ _judul_ ]
+〆  ${prefix}tourl [ _reply image/video_ ]
+〆  ${prefix}resepmasakan [ _judul_ ]
+〆  ${prefix}artimimpi [ _teks_ ]
+〆  ${prefix}bilangangka [ _angka_ ]
+〆  ${prefix}kalkulator [ _angka_ ]
+〆  ${prefix}fancytext [ _teks_ ]
+〆  ${prefix}githubstalk [ _username_ ]
+〆  ${prefix}translate [ _kodebhs|teks_ ]
+〆  ${prefix}ss [ _link_ ]
+メ ───❒「 END DOWNLOAD 」 ❒
 
-╭─❒ MAKER
-│ 〆  ${prefix}foliokiri [ _teks_ ]
-│ 〆  ${prefix}foliokanan [ _teks_ ]
-│ 〆  ${prefix}nuliskanan [ _teks_ ]
-│ 〆  ${prefix}nuliskiri [ _teks_ ]
-│ 〆  ${prefix}matrix [ _teks_ ]
-│ 〆  ${prefix}googletxt [ _teks_ ]
-│ 〆  ${prefix}spiderman [ _teks_ ]
-│ 〆  ${prefix}express [ _teks_ ]
-│ 〆  ${prefix}dance [ _teks_ ]
-│ 〆  ${prefix}blackbird [ _teks_ ]
-│ 〆  ${prefix}halloween [ _teks_ ]
-│ 〆  ${prefix}vampire [ _teks_ ]
-│ 〆  ${prefix}codetxt [ _teks_ ]
-│ 〆  ${prefix}text3d [ _teks_ ]
-│ 〆  ${prefix}warrior [ _teks_ ]
-│ 〆  ${prefix}maker2d2 [ _teks_ ]
-│ 〆  ${prefix}maker2d3 [ _teks_ ]
-│ 〆  ${prefix}maker2d4 [ _teks_ ]
-│ 〆  ${prefix}maker3d [ _teks_ ]
-│ 〆  ${prefix}maker3d2 [ _teks_ ]
-│ 〆  ${prefix}maker3d3 [ _teks_ ]
-│ 〆  ${prefix}maker3d4 [ _teks_ ]
-│ 〆  ${prefix}transformer [ _teks_ ]
-│ 〆  ${prefix}googletxt [ _teks|teks|teks_ ]
-│ 〆  ${prefix}battlefield [ _teks|teks_ ]
-│ 〆  ${prefix}coffeecup [ _teks_ ]
-│ 〆  ${prefix}coffeecup2 [ _teks_ ]
-│ 〆  ${prefix}neon [ _teks_ ]
-│ 〆  ${prefix}glow [ _teks_ ]
-│ 〆  ${prefix}summer [ _teks_ ]
-│ 〆  ${prefix}flower [ _teks_ ]
-│ 〆  ${prefix}burn [ _teks_ ]
-│ 〆  ${prefix}quote [ _teks_ ]
-│ 〆  ${prefix}wooden [ _teks_ ]
-│ 〆  ${prefix}golden [ _teks_ ]
-└─────────────────❒
+メ ───❒「 MAKER 」 ❒
+〆  ${prefix}foliokiri [ _teks_ ]
+〆  ${prefix}foliokanan [ _teks_ ]
+〆  ${prefix}nuliskanan [ _teks_ ]
+〆  ${prefix}nuliskiri [ _teks_ ]
+〆  ${prefix}matrix [ _teks_ ]
+〆  ${prefix}googletxt [ _teks_ ]
+〆  ${prefix}spiderman [ _teks_ ]
+〆  ${prefix}express [ _teks_ ]
+〆  ${prefix}dance [ _teks_ ]
+〆  ${prefix}blackbird [ _teks_ ]
+〆  ${prefix}halloween [ _teks_ ]
+〆  ${prefix}vampire [ _teks_ ]
+〆  ${prefix}codetxt [ _teks_ ]
+〆  ${prefix}text3d [ _teks_ ]
+〆  ${prefix}warrior [ _teks_ ]
+〆  ${prefix}maker2d2 [ _teks_ ]
+〆  ${prefix}maker2d3 [ _teks_ ]
+〆  ${prefix}maker2d4 [ _teks_ ]
+〆  ${prefix}maker3d [ _teks_ ]
+〆  ${prefix}maker3d2 [ _teks_ ]
+〆  ${prefix}maker3d3 [ _teks_ ]
+〆  ${prefix}maker3d4 [ _teks_ ]
+〆  ${prefix}transformer [ _teks_ ]
+〆  ${prefix}googletxt [ _teks|teks|teks_ ]
+〆  ${prefix}battlefield [ _teks|teks_ ]
+〆  ${prefix}coffeecup [ _teks_ ]
+〆  ${prefix}coffeecup2 [ _teks_ ]
+〆  ${prefix}neon [ _teks_ ]
+〆  ${prefix}glow [ _teks_ ]
+〆  ${prefix}summer [ _teks_ ]
+〆  ${prefix}flower [ _teks_ ]
+〆  ${prefix}burn [ _teks_ ]
+〆  ${prefix}quote [ _teks_ ]
+〆  ${prefix}wooden [ _teks_ ]
+〆  ${prefix}golden [ _teks_ ]
+メ ───❒「 END MAKER 」 ❒
 
-╭─❒ GROUP
-│ 〆  ${prefix}getpict [ _@tag_ ]
-│ 〆  ${prefix}getname [ _reply target_ ]
-│ 〆  ${prefix}getbio [ _reply target_ ]
-│ 〆  ${prefix}promote [ _@tag_ ]
-│ 〆  ${prefix}demote [ _@tag_ ]
-│ 〆  ${prefix}antilink [ _1/0_ ]
-│ 〆  ${prefix}creategrup [ _nama|@tag_ ]
-│ 〆  ${prefix}tictactoe [ _@tag_ ]
-│ 〆  ${prefix}delttt
-│ 〆  ${prefix}getpp
-│ 〆  ${prefix}kick [ _@tag_ ]
-│ 〆  ${prefix}add [ _nomor_ ]
-│ 〆  ${prefix}getdeskgc
-│ 〆  ${prefix}sider [ _reply pesan bot_ ]
-│ 〆  ${prefix}hacked [ _teks_ ]
-│ 〆  ${prefix}setnamegc [ _teks_ ]
-│ 〆  ${prefix}setdeskgc [ _teks_ ]
-│ 〆  ${prefix}fitnah [ _@tag|teks1|teks2_ ]
-│ 〆  ${prefix}kontak [ _@tag|nama_ ]
-│ 〆  ${prefix}kontag [ _@tag|nama_ ]
-│ 〆  ${prefix}opengc
-│ 〆  ${prefix}closegc
-│ 〆  ${prefix}resetlinkgc
-│ 〆  ${prefix}linkgrup
-│ 〆  ${prefix}hidetag [ _teks_ ]
-│ 〆  ${prefix}sticktag [ _nama sticker_ ]
-│ 〆  ${prefix}totag [ _reply media_ ]
-│ 〆  ${prefix}caripesan [ _teks|jumlah_ ]
-└─────────────────❒
+メ ───❒「 GROUP 」 ❒
+〆  ${prefix}getpict [ _@tag_ ]
+〆  ${prefix}getname [ _reply target_ ]
+〆  ${prefix}getbio [ _reply target_ ]
+〆  ${prefix}promote [ _@tag_ ]
+〆  ${prefix}demote [ _@tag_ ]
+〆  ${prefix}antilink [ _1/0_ ]
+〆  ${prefix}creategrup [ _nama|@tag_ ]
+〆  ${prefix}tictactoe [ _@tag_ ]
+〆  ${prefix}delttt
+〆  ${prefix}getpp
+〆  ${prefix}kick [ _@tag_ ]
+〆  ${prefix}add [ _nomor_ ]
+〆  ${prefix}getdeskgc
+〆  ${prefix}sider [ _reply pesan bot_ ]
+〆  ${prefix}hacked [ _teks_ ]
+〆  ${prefix}setnamegc [ _teks_ ]
+〆  ${prefix}setdeskgc [ _teks_ ]
+〆  ${prefix}fitnah [ _@tag|teks1|teks2_ ]
+〆  ${prefix}kontak [ _@tag|nama_ ]
+〆  ${prefix}kontag [ _@tag|nama_ ]
+〆  ${prefix}opengc
+〆  ${prefix}closegc
+〆  ${prefix}resetlinkgc
+〆  ${prefix}linkgrup
+〆  ${prefix}hidetag [ _teks_ ]
+〆  ${prefix}sticktag [ _nama sticker_ ]
+〆  ${prefix}totag [ _reply media_ ]
+〆  ${prefix}caripesan [ _teks|jumlah_ ]
+メ ───❒「 END GROUP 」 ❒
 
-╭─❒ JADI BOT
-│ 〆  ${prefix}jadibot
-│ 〆  ${prefix}stopjadibot
-└─────────────────❒
+メ ───❒「 STORAGE 」 ❒
+〆  ${prefix}listimage
+〆  ${prefix}liststicker
+〆  ${prefix}listvn
+〆  ${prefix}listgrup
+〆  ${prefix}addsticker [ _nama_ ]
+〆  ${prefix}delsticker [ _nama_ ]
+〆  ${prefix}addvn [ _nama_ ]
+〆  ${prefix}delvn [ _nama_ ]
+〆  ${prefix}addimage [ _nama_ ]
+〆  ${prefix}delimage [ _nama_ ]
+メ ───❒「 END STORAGE 」 ❒
 
-╭─❒ STORAGE
-│ 〆  ${prefix}listimage
-│ 〆  ${prefix}liststicker
-│ 〆  ${prefix}listvn
-│ 〆  ${prefix}listgrup
-│ 〆  ${prefix}addsticker [ _nama_ ]
-│ 〆  ${prefix}delsticker [ _nama_ ]
-│ 〆  ${prefix}addvn [ _nama_ ]
-│ 〆  ${prefix}delvn [ _nama_ ]
-│ 〆  ${prefix}addimage [ _nama_ ]
-│ 〆  ${prefix}delimage [ _nama_ ]
-└─────────────────❒
+メ ───❒「 CONVERT 」 ❒
+〆  ${prefix}tomp3 [ _reply video_ ]
+〆  ${prefix}tomp4 [ _reply sticker gif_ ]
+〆  ${prefix}robot [ _reply audio_ ]
+〆  ${prefix}balik [ _reply audio_ ]
+〆  ${prefix}bass [ _reply audio_ ]
+〆  ${prefix}gemuk [ _reply audio_ ]
+〆  ${prefix}detikvn [ _reply audio caption angka_ ]
+〆  ${prefix}detikvideo [ _reply video caption angka_ ]
+メ ───❒「 END CONVERT 」 ❒
 
-╭─❒ CONVERT
-│ 〆  ${prefix}tomp3 [ _reply video_ ]
-│ 〆  ${prefix}tomp4 [ _reply sticker gif_ ]
-│ 〆  ${prefix}robot [ _reply audio_ ]
-│ 〆  ${prefix}balik [ _reply audio_ ]
-│ 〆  ${prefix}bass [ _reply audio_ ]
-│ 〆  ${prefix}gemuk [ _reply audio_ ]
-│ 〆  ${prefix}detikvn [ _reply audio caption angka_ ]
-│ 〆  ${prefix}detikvideo [ _reply video caption angka_ ]
-└─────────────────❒
+メ ───❒「 TOOLS 」 ❒
+〆  ${prefix}sticker
+〆  ${prefix}stickerwm [ _nama|author_ ]
+〆  ${prefix}takestick [ _nama|author_ ]
+〆  ${prefix}colong [ _reply sticker_ ]
+〆  ${prefix}semoji [ _emoji_ ]
+〆  ${prefix}attp [ _teks_ ]
+〆  ${prefix}toimg
+〆${prefix}jadibot
+〆  ${prefix}stopjadibot
+メ ───❒「 END TOOLS 」 ❒
 
-╭─❒ TOOLS
-│ 〆  ${prefix}sticker
-│ 〆  ${prefix}stickerwm [ _nama|author_ ]
-│ 〆  ${prefix}takestick [ _nama|author_ ]
-│ 〆  ${prefix}colong [ _reply sticker_ ]
-│ 〆  ${prefix}semoji [ _emoji_ ]
-│ 〆  ${prefix}attp [ _teks_ ]
-│ 〆  ${prefix}toimg
-└─────────────────❒
-
-╭─❒ FUN
-│ 〆  ${prefix}anime
-│ 〆  ${prefix}loli
-│ 〆  ${prefix}waifu
-│ 〆  ${prefix}husbu
-│ 〆  ${prefix}yuri
-│ 〆  ${prefix}milf
-│ 〆  ${prefix}meme
-│ 〆  ${prefix}slots
-│ 〆  ${prefix}tictactoe
-│ 〆  ${prefix}rate [ _teks_ ]
-│ 〆  ${prefix}kapankah [ _teks_ ]
-│ 〆  ${prefix}apakah [ _teks_ ]
-│ 〆  ${prefix}bisakah [ _teks_ ]
-│ 〆  ${prefix}suit [ _gunting/batu/kertas_ ]
-│ 〆  ${prefix}tag [ _nomor_ ]
-│ 〆  ${prefix}tagme
-│ 〆  ${prefix}tts [ _kodebhs teks_ ]
-│ 〆  ${prefix}readmore [ _teks1|teks2_ ]
-│ 〆  ${prefix}fitnahpc [ _nomor|teks1|teks2_ ]
-│ 〆  ${prefix}chat [ _nomor|teks_ ]
-│ 〆  ${prefix}fdeface [ _replyimg link|teks1|teks2_ ]
-│ 〆  ${prefix}getcaption [ _reply message_ ]
-│ 〆  ${prefix}pantun
-│ 〆  ${prefix}tospam [ _reply audio/sticker/image|jumlah_ ]
-│ 〆  ${prefix}sharelock [ _teks1|teks2_ ]
-└─────────────────❒`
+メ ───❒「 END FUN 」 ❒
+〆  ${prefix}anime
+〆  ${prefix}loli
+〆  ${prefix}waifu
+〆  ${prefix}husbu
+〆  ${prefix}yuri
+〆  ${prefix}milf
+〆  ${prefix}meme
+〆  ${prefix}slots
+〆  ${prefix}tictactoe
+〆  ${prefix}rate [ _teks_ ]
+〆  ${prefix}kapankah [ _teks_ ]
+〆  ${prefix}apakah [ _teks_ ]
+〆  ${prefix}bisakah [ _teks_ ]
+〆  ${prefix}suit [ _gunting/batu/kertas_ ]
+〆  ${prefix}tag [ _nomor_ ]
+〆  ${prefix}tagme
+〆  ${prefix}tts [ _kodebhs teks_ ]
+〆  ${prefix}readmore [ _teks1|teks2_ ]
+〆  ${prefix}fitnahpc [ _nomor|teks1|teks2_ ]
+〆  ${prefix}chat [ _nomor|teks_ ]
+〆  ${prefix}fdeface [ _replyimg link|teks1|teks2_ ]
+〆  ${prefix}getcaption [ _reply message_ ]
+〆  ${prefix}pantun
+〆  ${prefix}tospam [ _reply audio/sticker/image|jumlah_ ]
+〆  ${prefix}sharelock [ _teks1|teks2_ ]
+メ ───❒「 END FUN 」 ❒`
 sendButLocation(from, `${menu}`, `Regards By EmiliaBot`, {jpegThumbnail:gambar,name:""}, [{buttonId:`owner`,buttonText:{displayText:'🦕OWNER'},type:1}], {contextInfo: { mentionedJid: [otod]}})
 break
 case 'command':
